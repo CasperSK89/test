@@ -12,17 +12,17 @@
     "typecheck": "nuxt typecheck"
   },
   "dependencies": {
-    "@nuxt/eslint": "^0.7.5",
-    "@nuxthub/core": "^0.8.12",
+    "@nuxt/eslint": "^0.7.6",
+    "@nuxthub/core": "^0.8.24",
     "@trpc/client": "^11.0.4",
     "@trpc/server": "^11.0.4",
-    "nuxt": "^3.15.2",
+    "nuxt": "^3.16.2",
     "trpc-nuxt": "^1.0.4"
   },
   "devDependencies": {
-    "@nuxt/eslint-config": "^0.7.5",
-    "eslint": "^9.18.0",
-    "vue-tsc": "^2.2.0",
+    "@nuxt/eslint-config": "^0.7.6",
+    "eslint": "^9.24.0",
+    "vue-tsc": "^2.2.8",
     "wrangler": "3.103.2"
   },
   "packageManager": "pnpm@9.15.4"
